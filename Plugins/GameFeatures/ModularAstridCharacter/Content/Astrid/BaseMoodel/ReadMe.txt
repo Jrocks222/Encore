@@ -1,0 +1,1 @@
+Thid folder contains the assets for the specific character, including models, materials, audio, and animations.
